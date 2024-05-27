@@ -1,0 +1,59 @@
+body {
+    .titulo{
+        background-color: white;
+    }
+
+
+    background-image: url(ds1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .Jefe5 {
+
+        font-size: 25;
+        color: white;
+        display: flex;
+    }
+  .Artorias {
+        width: 700px;
+  }  
+
+  .Jefe4 {
+    font-size: 25;
+    color: white;
+    display: flex;
+  }
+  .Quelaag {
+    width: 700;
+  }
+
+  .Jefe3 {
+    font-size: 25;
+    color: white;
+    display: flex;
+  }
+  .Manus {
+    width: 700;
+
+  }
+
+  .Jefe2 {
+    font-size: 25;
+    color: white;
+    display: flex;
+  }
+  .Oys {
+    width: 700;
+  }
+
+  .Jefe1 {
+    font-size: 25;
+    color: white;
+    display: flex;
+  }
+  .Kalameet {
+    width: 700;
+
+  }
+
+}
